@@ -43,10 +43,9 @@
  results as a better indicator of current strength. We evaluated tournament results by the stage 
  achieved, regardless of opponent or game record. Here are the aggregated results from the last two years:
 
-
- Screenshots
-
- ===========
+---------------------------------------------------------------------------------------------------------
+* Screenshots
+==============
 
  ![msi18_seeding_graphic](http://user-images.githubusercontent.com/37677142/38064770-d683b1ec-333a-11e8-9620-706b5517abe7.jpg)
 ---------------------------------------------------------------------------------------------------------
