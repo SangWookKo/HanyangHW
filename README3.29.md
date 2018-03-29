@@ -45,12 +45,14 @@
 
 ---------------------------------------------------------------------------------------------------------
 * Screenshots
-==============
 
- ![msi18_seeding_graphic](http://user-images.githubusercontent.com/37677142/38064770-d683b1ec-333a-11e8-9620-706b5517abe7.jpg)
 ---------------------------------------------------------------------------------------------------------
 
- *With the addition of Vietnam, MSI is now a 14 region event. The play-in stage will continue to include
+
+![msi18_seeding_graphic](http://user-images.githubusercontent.com/37677142/38064770-d683b1ec-333a-11e8-9620-706b5517abe7.jpg)
+---------------------------------------------------------------------------------------------------------
+
+* With the addition of Vietnam, MSI is now a 14 region event. The play-in stage will continue to include
   10 teams, meaning the remaining 4 regions' teams will start in the group stage. The top 4 performing 
   region from the previous 2 years are KR, CN, EU and NA. Although LMS had the stronger showing at MSI
   2017, they were outperformed by NA at Worlds 2107, Worlds 2016 and MSI 2016.
