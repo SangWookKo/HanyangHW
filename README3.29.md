@@ -22,7 +22,7 @@
  - Commonwealth of Independent States(LCL)
  - Europe(EU LCS)
  - Japan(LJL)
- - Korea(LCK) **will be world champion**
+ - Korea(LCK) **(will be world champion)**
  - Latin America,North(LLN) 
  - Latin America,South(CLS)
  - North America(NA LCS)
@@ -46,6 +46,7 @@
 ---------------------------------------------------------------------------------------------------------
 ## Screenshots
  
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
@@ -53,6 +54,8 @@
 
 
 >>>>>>> 79b2827011274a70d74819b8058e7ce35f358fe8
+=======
+>>>>>>> Homework3_29
 ![msi18_seeding_graphic](https://user-images.githubusercontent.com/37677142/38064770-d683b1ec-333a-11e8-9620-706b5517abe7.jpg)
 ---------------------------------------------------------------------------------------------------------
 
