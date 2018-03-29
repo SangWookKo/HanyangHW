@@ -52,10 +52,10 @@
 ---------------------------------------------------------------------------------------------------------
 
  *With the addition of Vietnam, MSI is now a 14 region event. The play-in stage will continue to include
-  *10 teams, meaning the remaining 4 regions' teams will start in the group stage. The top 4 performing 
-    *region from the previous 2 years are KR, CN, EU and NA. Although LMS had the stronger showing at MSI
-     * 2017, they were outperformed by NA at Worlds 2107, Worlds 2016 and MSI 2016. 
-       *As a result, LMS will start in round 2 of the play-in, as they did last year.
+  10 teams, meaning the remaining 4 regions' teams will start in the group stage. The top 4 performing 
+  region from the previous 2 years are KR, CN, EU and NA. Although LMS had the stronger showing at MSI
+  2017, they were outperformed by NA at Worlds 2107, Worlds 2016 and MSI 2016.
+  As a Result, LMS will start in round 2 of the play-in, as they did last year.
 ---------------------------------------------------------------------------------------------------------
 
 
