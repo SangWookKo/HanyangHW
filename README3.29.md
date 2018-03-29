@@ -44,7 +44,7 @@
  achieved, regardless of opponent or game record. Here are the aggregated results from the last two years:*
 
 ---------------------------------------------------------------------------------------------------------
-## Screenshots## 
+## Screenshots
  (click this image)
 
 ---------------------------------------------------------------------------------------------------------
