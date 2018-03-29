@@ -50,7 +50,7 @@
 ---------------------------------------------------------------------------------------------------------
 
 
-![msi18_seeding_graphic](http://user-images.githubusercontent.com/37677142/38064770-d683b1ec-333a-11e8-9620-706b5517abe7.jpg)
+![msi18_seeding_graphic](https://user-images.githubusercontent.com/37677142/38064770-d683b1ec-333a-11e8-9620-706b5517abe7.jpg)
 ---------------------------------------------------------------------------------------------------------
 
 * With the addition of Vietnam, MSI is now a 14 region event. The play-in stage will continue to include
