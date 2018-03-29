@@ -35,16 +35,16 @@
 
 * SEEDING
 
- *This year, regions will be seeded based on previous results from the past 2 years of MSI and Worlds. 
+ ***This year, regions will be seeded based on previous results from the past 2 years of MSI and Worlds. 
  We are using 2 years as our sample size for considering competitive result because:
 
  When determining seeding, we prioritize results at Worlds over MSI (as Worlds is the most important
  tournament of the year, and involves the most teams). We also prioritize recent resutls over older
  results as a better indicator of current strength. We evaluated tournament results by the stage 
- achieved, regardless of opponent or game record. Here are the aggregated results from the last two years:*
+ achieved, regardless of opponent or game record. Here are the aggregated results from the last two years:***
 
 ---------------------------------------------------------------------------------------------------------
-* Screenshots
+## Screenshots
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@
 [More Information]: http://www.lolesports.com
 
 ---------------------------------------------------------------------------------------------------------
-> LOL
+> LOL : http://www.lolesports.com
