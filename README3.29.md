@@ -35,7 +35,7 @@
 
 * SEEDING
 
- **This year, regions will be seeded based on previous results from the past 2 years of MSI and Worlds. 
+** This year, regions will be seeded based on previous results from the past 2 years of MSI and Worlds. 
  We are using 2 years as our sample size for considering competitive result because:
 
  When determining seeding, we prioritize results at Worlds over MSI (as Worlds is the most important
@@ -59,4 +59,4 @@
   As a Result, LMS will start in round 2 of the play-in, as they did last year.
 ---------------------------------------------------------------------------------------------------------
 
-
+[More Information]: http://www.lolesports.com
